@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/login-modal-react-tailwind/static/css/main.428dab28.css",
+    "main.js": "/login-modal-react-tailwind/static/js/main.b61d40e2.js",
+    "static/js/787.8d9d9c60.chunk.js": "/login-modal-react-tailwind/static/js/787.8d9d9c60.chunk.js",
+    "static/media/image.jpg": "/login-modal-react-tailwind/static/media/image.4dc8f5a9a27b5f54d66b.jpg",
+    "index.html": "/login-modal-react-tailwind/index.html",
+    "main.428dab28.css.map": "/login-modal-react-tailwind/static/css/main.428dab28.css.map",
+    "main.b61d40e2.js.map": "/login-modal-react-tailwind/static/js/main.b61d40e2.js.map",
+    "787.8d9d9c60.chunk.js.map": "/login-modal-react-tailwind/static/js/787.8d9d9c60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.428dab28.css",
+    "static/js/main.b61d40e2.js"
+  ]
+}
