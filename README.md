@@ -4,6 +4,14 @@
 
 This is one of the mini projects from the tailwind CSS learning course.
 
+### Desktop
+![](https://github.com/saneckaA/login-modal-react-tailwind/blob/main/src/images/login.PNG?raw=true)
+
+### Mobile
+<p align="center">
+  <img src="https://github.com/saneckaA/login-modal-react-tailwind/blob/main/src/images/login-mobile.PNG?raw=true" />
+</p>
+
 ## Demo
 [Login modal - demo](https://saneckaa.github.io/login-modal-react-tailwind/)
 
